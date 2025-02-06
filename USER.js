@@ -1,4 +1,4 @@
-const pairNumber = "2349019529423";
+const pairNumber = "234xxxxxxxxxxx";
 
 const accNumber = ""
 
