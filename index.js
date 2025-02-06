@@ -62,4 +62,4 @@ function start(file) {
         })
 }
 
-start('main.js')
+start('./database/main.js')
